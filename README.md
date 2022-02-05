@@ -9,7 +9,7 @@ Info
 </head>
 <body style="font-family:Comic sans ms">
 <p title="info" style="color:cyan;font-size:60px;">
-<img src="C:\Users\uday9\Downloads\IMG_20211216_210340_048.jpg" alt="Profile-Photo" height="250" width="250"><br>
+<img src="https://github.com/Uday-S-Rathore/information.github.io/blob/main/IMG_20211216_210340_048.jpg" height="250" width="250"><br>
 <!--------------<hr>--------------->
 <blockquote cite="C:\Users\uday9\Desktop\Coding Sites.html">
 <!--Contact-->
