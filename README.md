@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="Coding.css">
+<link rel="stylesheet" href="https://github.com/Uday-S-Rathore/information.github.io/blob/main/Coding.css">
 <head>
 <a href="C:\Users\uday9\Desktop\Coding Sites.html" target="_blank">Coding Sites</a>
 <title>
